@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joe
 - 👀 I’m interested in ... research statistics
-- 🌱 I’m currently learning ... about how the pandemic has affected cancaer diagnosis, treatment, and outcomes
+- 🌱 I’m currently learning ... 
 - 📫 How to reach me ... 
 
 <!---
